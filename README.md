@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/736x/0c/56/61/0c5661ab3b341e2da0f28844fe6f3e88.jpg)
-
 
 <h1 align="center">Hi 👋, I'm Bengusu Duman</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
