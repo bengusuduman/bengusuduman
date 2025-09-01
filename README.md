@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bengusu Duman</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A computer engineer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
